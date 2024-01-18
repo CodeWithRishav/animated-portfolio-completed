@@ -18,7 +18,7 @@ const items = [
   {
     id: 3,
     title: "Physiotherapy Center Website Project",
-    img : "./kiyaphysiotherapycenter.com.jpeg",
+    img : "https://live.staticflickr.com/65535/53471936135_569883e008_c.jpg",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
   },
   {
