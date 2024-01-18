@@ -19,14 +19,14 @@ const Navbar = () => {
           <a href="#">
             <img src="/facebook.png" alt="" />
           </a>
-          <a href="#">
+          <a href="https://www.instagram.com/rishi_rishav__kumar_9979/">
             <img src="/instagram.png" alt="" />
           </a>
-          <a href="#">
+          <a href="https://www.youtube.com/channel/UCjhSBFmC-sPsS9ihDDaEPBQ">
             <img src="/youtube.png" alt="" />
           </a>
-          <a href="#">
-            <img src="/dribbble.png" alt="" />
+          <a href="github.com/codewithrishav">
+            <img src="/github.png" alt="" />
           </a>
         </div>
       </div>

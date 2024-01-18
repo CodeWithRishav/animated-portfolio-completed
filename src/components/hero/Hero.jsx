@@ -75,7 +75,7 @@ const Hero = () => {
         RISHAV KUMAR
       </motion.div>
       <div className="imageContainer">
-        <img src="/hero.png" alt="" />
+        <img src="/display.png" alt="" />
       </div>
     </div>
   );
