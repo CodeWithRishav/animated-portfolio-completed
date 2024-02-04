@@ -16,8 +16,8 @@ const Navbar = () => {
           Lama Dev
         </motion.span>
         <div className="social">
-          <a href="#">
-            <img src="/facebook.png" alt="" />
+          <a href="https://www.linkedin.com/in/codewithrishav/">
+            <img src="/linkedin.png" alt="" />
           </a>
           <a href="https://www.instagram.com/rishi_rishav__kumar_9979/">
             <img src="/instagram.png" alt="" />

@@ -4,6 +4,12 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 
 const items = [
   {
+    id: 3,
+    title: "Physiotherapy Center Website Project",
+    img : "https://live.staticflickr.com/65535/53471936135_569883e008_c.jpg",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+  },
+  {
     id: 1,
     title: "React Commerce",
     img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
@@ -15,12 +21,7 @@ const items = [
     img: "https://images.pexels.com/photos/18023772/pexels-photo-18023772/free-photo-of-close-up-of-a-person-holding-a-wristwatch.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
   },
-  {
-    id: 3,
-    title: "Physiotherapy Center Website Project",
-    img : "https://live.staticflickr.com/65535/53471936135_569883e008_c.jpg",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-  },
+  
   {
     id: 4,
     title: "Music App",
