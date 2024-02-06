@@ -49,10 +49,12 @@ const Services = () => {
           </h1>
         </div>
         <div className="title">
+          <a href="https://rishavportfoliosite.netlify.app/#resume">
           <h1>
             <motion.b whileHover={{color:"orange"}}>Into Digital </motion.b> masterpieces.
           </h1>
-          <button>WHAT WE DO?</button>
+          <button>See all Projects</button>
+          </a>
         </div>
       </motion.div>
       <motion.div className="listContainer" variants={variants}>
