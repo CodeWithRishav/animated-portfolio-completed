@@ -52,7 +52,8 @@ const Hero = () => {
             Web developer and Graphics designer
           </motion.h1>
           <motion.div variants={textVariants} className="buttons">
-            {/* <Link href=""></Link> */}
+            
+            {/* <Link href="portfolio.htmk"></Link> */}
             <motion.button variants={textVariants}>
               See my Latest Works
             </motion.button>

@@ -1,6 +1,7 @@
 import { useRef } from "react";
 import "./services.scss";
 import { motion, useInView } from "framer-motion";
+import { Link } from 'react-router-dom';
 
 const variants = {
   initial: {
@@ -52,7 +53,9 @@ const Services = () => {
           <h1>
             <motion.b whileHover={{color:"orange"}}>Into Digital </motion.b> masterpieces.
           </h1>
-          <button>WHAT WE DO?</button>
+          
+          <a href="https://projects-for-portfolio.vercel.app/">
+          <button>See Projects</button></a>
         </div>
       </motion.div>
       <motion.div className="listContainer" variants={variants}>
