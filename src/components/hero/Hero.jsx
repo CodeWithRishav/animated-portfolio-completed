@@ -76,7 +76,7 @@ const Hero = () => {
         RISHAV KUMAR
       </motion.div>
       <div className="imageContainer">
-        <img src="/display.gif" alt="" />
+        <img src="/display.mp4" alt="" />
       </div>
     </div>
   );
